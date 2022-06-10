@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-323
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "polygon Down"
+		},
+		{
+			"offsets": [
+				-9,
+				-320
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "polygon Idle"
+		},
+		{
+			"offsets": [
+				-10,
+				-320
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "polygon Left"
+		},
+		{
+			"offsets": [
+				-1,
+				-323
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "polygon Right"
+		},
+		{
+			"offsets": [
+				-9,
+				-328
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "polygon Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/polygon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "polygon",
+	"flip_x": false,
+	"healthbar_colors": [
+		82,
+		119,
+		147
+	],
+	"camera_position": [
+		0,
+		350
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

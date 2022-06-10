@@ -1,0 +1,18 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": null,
+		"player1": "bf",
+		"player2": "creepbf",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 186,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Mirror"
+	}
+}

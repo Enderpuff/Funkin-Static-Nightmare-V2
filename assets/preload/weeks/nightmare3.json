@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Switch", "restyle", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekBackground": "black",
+
+	"difficulties": "Hard",
+	"storyName": "restyle",
+	"weekBefore": "nightmare2",
+	"weekName": "nightmare3",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

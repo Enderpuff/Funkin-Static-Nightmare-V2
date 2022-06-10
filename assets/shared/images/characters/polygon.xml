@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="polygon.png"><SubTexture name="polygon Idle0000" x="0" y="0" width="411" height="407" frameX="-12" frameY="-24" frameWidth="440" frameHeight="443" />
+<SubTexture name="polygon Left0000" x="411" y="0" width="362" height="407" frameX="-12" frameY="-24" frameWidth="440" frameHeight="443" />
+<SubTexture name="polygon Up0000" x="410" y="407" width="375" height="262" frameX="-48" frameY="-169" frameWidth="440" frameHeight="443" />
+<SubTexture name="polygon Down0000" x="0" y="407" width="410" height="296" frameX="-21" frameY="-21" frameWidth="441" frameHeight="445" />
+<SubTexture name="polygon Right0000" x="773" y="0" width="410" height="407" frameX="-21" frameY="-21" frameWidth="441" frameHeight="445" />
+</TextureAtlas>

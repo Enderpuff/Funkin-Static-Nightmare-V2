@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				25
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "creepbf Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				25
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "creepbf Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				25
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "creepbf Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				25
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "creepbf Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				25
+			],
+			"indices": [],
+			"fps": 5,
+			"anim": "idle",
+			"loop": false,
+			"name": "creepbf Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/creepbf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "icon-creep",
+	"flip_x": false,
+	"healthbar_colors": [
+		82,
+		119,
+		147
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

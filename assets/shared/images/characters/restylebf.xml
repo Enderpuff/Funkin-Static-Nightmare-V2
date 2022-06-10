@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="restyle.png"><SubTexture name="restyle idle0000" x="0" y="0" width="440" height="407" frameX="-6" frameY="-11" frameWidth="452" frameHeight="419" />
+<SubTexture name="restyle idle0001" x="436" y="407" width="439" height="400" frameX="-9" frameY="-15" frameWidth="452" frameHeight="419" />
+<SubTexture name="restyle idle0002" x="440" y="0" width="440" height="407" frameX="-7" frameY="-11" frameWidth="452" frameHeight="419" />
+<SubTexture name="restyle idle0003" x="0" y="407" width="436" height="402" frameX="-11" frameY="-14" frameWidth="452" frameHeight="419" />
+<SubTexture name="restyle up0000" x="0" y="0" width="440" height="407" frameX="-6" frameY="-11" frameWidth="452" frameHeight="419" />
+<SubTexture name="restyle down0000" x="436" y="407" width="439" height="400" frameX="-9" frameY="-15" frameWidth="452" frameHeight="419" />
+<SubTexture name="restyle left0000" x="440" y="0" width="440" height="407" frameX="-7" frameY="-11" frameWidth="452" frameHeight="419" />
+<SubTexture name="restyle right0000" x="0" y="407" width="436" height="402" frameX="-11" frameY="-14" frameWidth="452" frameHeight="419" />
+</TextureAtlas>

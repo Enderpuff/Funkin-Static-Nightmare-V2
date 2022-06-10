@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="command.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="command basic0000" x="0" y="209" width="737" height="184"/>
+	<SubTexture name="command basic0001" x="0" y="209" width="737" height="184"/>
+	<SubTexture name="command basic0002" x="0" y="209" width="737" height="184"/>
+	<SubTexture name="command basic0003" x="0" y="209" width="737" height="184"/>
+	<SubTexture name="command basic0004" x="0" y="393" width="737" height="184"/>
+	<SubTexture name="command basic0005" x="0" y="393" width="737" height="184"/>
+	<SubTexture name="command basic0006" x="0" y="393" width="737" height="184"/>
+	<SubTexture name="command basic0007" x="0" y="393" width="737" height="184"/>
+	<SubTexture name="command basic0008" x="737" y="410" width="737" height="184"/>
+	<SubTexture name="command basic0009" x="737" y="410" width="737" height="184"/>
+	<SubTexture name="command basic0010" x="737" y="410" width="737" height="184"/>
+	<SubTexture name="command basic0011" x="737" y="410" width="737" height="184"/>
+	<SubTexture name="command white0000" x="822" y="206" width="819" height="204" frameX="-1" frameY="0" frameWidth="827" frameHeight="212"/>
+	<SubTexture name="command white0001" x="0" y="0" width="822" height="209" frameX="0" frameY="-3" frameWidth="827" frameHeight="212"/>
+	<SubTexture name="command white0002" x="822" y="0" width="827" height="206" frameX="0" frameY="-2" frameWidth="827" frameHeight="212"/>
+</TextureAtlas>
